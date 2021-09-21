@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+title {
+  display: none;
+}
+
 body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
